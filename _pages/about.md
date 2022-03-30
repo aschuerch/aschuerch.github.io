@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a bioinformatician working in pathogen genomics. I am heading a group 
+I am a bioinformatician working in pathogen genomics. I am heading a [group](www.mmb-bioit.nl) 
 that provides bioinformatics support for a medical microbiology department of an academic hospital. We design, write and maintain pipelines and databases for genomic or metagenomic analyses, carry out or advise on analysis of high-throughput sequencing data and provide bioinformatics education and consultation. 
 
 Our research interest is to find patterns in DNA sequencing data and to apply this knowledge to the genomic epidemiology of 
