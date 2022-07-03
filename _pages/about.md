@@ -11,8 +11,8 @@ redirect_from:
 I am a bioinformatician working in pathogen genomics. I am heading a [group](http://www.mmb-bioit.nl) 
 that provides bioinformatics support for a medical microbiology department of an academic hospital. We design, write and maintain pipelines and databases for genomic or metagenomic analyses, carry out or advise on analysis of high-throughput sequencing data and provide bioinformatics education and consultation. 
 
-Our research interest is to find patterns in DNA sequencing data and to apply this knowledge to the genomic epidemiology of 
-organisms causing infectious diseases. We are interested in the 
+My research interest is to find patterns in DNA sequencing data and to apply this knowledge to the genomic epidemiology of 
+organisms causing infectious diseases. I am interested in the 
 [genomics of plasmids](plasmidgenomics.md) and [other mobile genetic elements](mge.md). During my phD, I researched [typing of *Mycobacterium tuberculosis* by whole genome sequence analysis](tb.md). During my postdoc, I identified and [reconstructed virus genomes from metagenome data](virus.md).
 
 I am passionate about teaching and supervising, because I like to share my enthousiasm for 
