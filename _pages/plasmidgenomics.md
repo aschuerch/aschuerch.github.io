@@ -31,3 +31,7 @@ Microbial genomics 4 (11)
 [Genomes of a major nosocomial pathogen Enterococcus faecium are shaped by adaptive evolution of the chromosome and plasmidome](https://www.biorxiv.org/content/10.1101/530725v2.abstract)
 Sergio Arredondo-Alonso, Janetta Top, Anita C Schürch, Alan McNally, Santeri Puranen, Maiju Pesonen, Johan Pensar, Pekka Marttinen, Johanna C Braat, Malbert RC Rogers, Willem van Schaik, Samuel Kaski, Jukka Corander, Rob JL Willems
 bioRxiv, 530725
+
+[Recovering Escherichia coli Plasmids in the Absence of Long-Read Sequencing Data]
+(https://www.mdpi.com/2076-2607/9/8/1613)
+Julina A. Paganini, Nienke L. Plantinga, Sergio Arredondo-Alonso, Rob J.L. Willems, and Anita C. Schürch. 2021. Microorganisms
