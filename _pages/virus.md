@@ -13,6 +13,7 @@ Often, metagenomic approaches are used to identify complete viral genomes from s
 characterization of these new viruses. The *de novo* assembly of viruses from a metagenome is challenging, 
 not only because of the lack of a reference genome, but also because of intrapopulation variation 
 and uneven or insufficient coverage. 
+Another important topic in viral genomics is the identification of (minority) resistance varians in viral genomes.
 
 
 Selected references
@@ -31,3 +32,6 @@ Saskia L Smits, Rogier Bodewes, Aritz Ruiz-González, Wolfgang Baumgärtner, Mar
 Frontiers in microbiology 6, 1069
 
 
+[Identification of HCV resistant variants against direct acting antivirals in plasma and liver of treatment naïve patients](https://doi.org/10.1038/s41598-017-04931-y)
+VS Raj, GB Hundie, AC Schürch, SL Smits, SD Pas, S Le Pogam, et. al.
+Scientific Reports 7 (1), 4688
