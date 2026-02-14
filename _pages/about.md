@@ -8,16 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a bioinformatician working in pathogen genomics. I am heading a research [group](http://www.mmb-bioit.nl) 
-that also provides bioinformatics support for a medical microbiology department of an academic hospital. We design, write and maintain pipelines and databases for genomic or metagenomic analyses, carry out or advise on analysis of high-throughput sequencing data and provide bioinformatics education and consultation. 
+## About me
 
-My research interest is to find patterns in DNA sequencing data and to apply this knowledge to the genomic epidemiology of 
-organisms causing infectious diseases. I am interested in the 
-[genomics of plasmids](plasmidgenomics.md) and [other mobile genetic elements](mge.md). During my phD, I researched [typing of *Mycobacterium tuberculosis* by whole genome sequence analysis](tb.md). During my postdoc, I identified and [reconstructed virus genomes from metagenome data](virus.md). Most recently, I dive into the genomics of [fungal pathogens](fungalgenomics.md).
+I lead a research [group](http://www.mmb-bioit.nl) at the intersection of bioinformatics and medical biology, where we develop and maintain software, pipelines and databases for genomic or metagenomic analyses.
+Our team supports the microbiology department of the UMC Utrecht, providing bioinformatic consultation, education, and analysis of high-throughput sequencing data. 
 
-I am passionate about teaching and supervising, because I like to share my enthousiasm for 
+## Research focus
+
+My research interest is to find patterns in DNA sequencing data and translating these insights into genomic epidemiology, especially for infectious disease pathogens. 
+My work spans the [genomics of plasmids](plasmidgenomics.md) and [other mobile genetic elements](mge.md), with a recent focus on [fungal pathogens](fungalgenomics.md).
+My academic journey includes a PhD on [whole genome sequencing of *Mycobacterium tuberculosis*](tb.md) and a postdoc on [viral genomics and metagenomics](virus.md).
+
+## Teaching and advocacy
+
+I am passionate about teaching and mentoring, sharing my enthusiasm for 
 bioinformatics, open science and reproducible research as a way to do difficult tasks 
 [better, faster, stronger](https://jkdos.com/daftpunkonsole/). 
-I teach university courses and [Carpentries workshops](https://carpentries.org/) as an instructor 
-and contributed to lesson development as a maintainer and  member of Curriculum Advisory Committee of the [Data Carpentry Genomics curriculum](http://www.datacarpentry.org/lessons/#genomics-workshop).
+As an instructor for university courses and [Carpentries workshops](https://carpentries.org/), 
+I also contributed to lesson development as a maintainer of the [Data Carpentry Genomics](http://www.datacarpentry.org/lessons/#genomics-workshop) and as a member of the Curriculum Advisory Committee.
 
