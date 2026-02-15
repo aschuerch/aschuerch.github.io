@@ -14,4 +14,4 @@ Projects and references
 ==========
 
 
-[Fungal Genomics and Antagonistic Community Interactions( FuGACI )](https://jpiamr.eu/projects/fugaci/)
+[Fungal Genomics and Antagonistic Community Interactions(FuGACI)](https://jpiamr.eu/projects/fugaci/)
